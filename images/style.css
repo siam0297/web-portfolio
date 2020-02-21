@@ -22,7 +22,7 @@ h1{
 
 .top-background
 {
-    
+    padding-left: 5%px;
     background-image: url("top-banner.png");
     background-repeat: no-repeat;
 }
@@ -49,7 +49,50 @@ p{
 
 .dream-area
 {
+    
+    padding-left: 4%;
+    padding-top: 10%;
     background-image: url("dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+   
+}
+
+.single-Experiences
+{
+   
+    box-shadow:10px 10px 40px gray;
+    border-radius: 5px;
+    height: 60%;
+    background-color: white;
+}
+
+.Experience-area
+{
+    padding-left: 4.5%;
+    padding-top: 10%;
+    background-image: url("exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full_stack
+{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, orange,orangered);
+    border-image-slice: 1;
+}
+
+#babu_stack
+{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, orange,  red);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+    font-size: 12px;
 }
