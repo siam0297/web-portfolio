@@ -23,7 +23,7 @@ h1{
 .top-background
 {
     padding-left: 5%px;
-    background-image: url("top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
 }
 
@@ -52,7 +52,7 @@ p{
     
     padding-left: 4%;
     padding-top: 10%;
-    background-image: url("dream-bg.png");
+    background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
    
